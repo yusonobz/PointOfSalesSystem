@@ -1,0 +1,114 @@
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\bin\Debug\pointofsales.exe
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\bin\Debug\pointofsales.pdb
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\bin\Debug\pointofsales.xml
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Resources.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.vbproj.GenerateResource.Cache
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.exe
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.xml
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.pdb
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.adminpage.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.myaccount.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.addcashier.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editcashier.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.deletecashier.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.salesreport.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierlogin.resources
+C:\Users\Ronnel17\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierpage.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.xml
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.pdb
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\bin\Debug\pointofsales.exe
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\bin\Debug\pointofsales.pdb
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\bin\Debug\pointofsales.xml
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.addcashier.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.adminpage.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierlogin.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierpage.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.deletecashier.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editcashier.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Resources.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.myaccount.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.salesreport.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.vbproj.GenerateResource.Cache
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.exe
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.edit.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Add_item.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.exe
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.xml
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.pdb
+C:\Users\leslie\Desktop\pointofsales\pointofsales\bin\Debug\pointofsales.exe
+C:\Users\leslie\Desktop\pointofsales\pointofsales\bin\Debug\pointofsales.pdb
+C:\Users\leslie\Desktop\pointofsales\pointofsales\bin\Debug\pointofsales.xml
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.addcashier.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Add_item.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.adminpage.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierlogin.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierpage.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.deletecashier.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.edit.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editcashier.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Form1.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.items.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login_cashier.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login_one.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Resources.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.myaccount.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.salesreport.resources
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.vbproj.GenerateResource.Cache
+C:\Users\leslie\Desktop\pointofsales\pointofsales\obj\x86\Debug\pointofsales.admin_signup.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.exe
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.xml
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.pdb
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.addcashier.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Add_item.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.adminpage.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.admin_signup.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierlogin.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierpage.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.deletecashier.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.edit.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editcashier.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login_cashier.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login_one.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Resources.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.myaccount.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.salesreport.resources
+F:\pointofsales\pointofsales\obj\x86\Debug\pointofsales.vbproj.GenerateResource.Cache
+F:\pointofsales\pointofsales\bin\Debug\pointofsales.exe
+F:\pointofsales\pointofsales\bin\Debug\pointofsales.pdb
+F:\pointofsales\pointofsales\bin\Debug\pointofsales.xml
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.exe
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.xml
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.pdb
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\bin\Debug\pointofsales.exe
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\bin\Debug\pointofsales.pdb
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\bin\Debug\pointofsales.xml
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.addcashier.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Add_item.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.adminpage.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.admin_signup.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierlogin.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.cashierpage.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.deletecashier.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.edit.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editcashier.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login_cashier.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.login_one.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.Resources.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.myaccount.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.salesreport.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.vbproj.GenerateResource.Cache
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editpassadm.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editpos.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.delete_item.resources
+C:\Users\Ronnel17\Desktop\vb.net\vb.net\pointofsales\pointofsales\obj\x86\Debug\pointofsales.edit_item.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.delete_item.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editpassadm.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.editpos.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.edit_item.resources
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\bin\Debug\pointofsales.exe.config
+C:\Users\Ronnel17\Desktop\SCHOOL WORKS\pointofsales\pointofsales\obj\x86\Debug\pointofsales.month_cb.resources
